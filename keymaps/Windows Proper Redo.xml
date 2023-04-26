@@ -18,4 +18,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt 3" />
   </action>
   <action id="Kotlin.RunScratch" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
 </keymap>
