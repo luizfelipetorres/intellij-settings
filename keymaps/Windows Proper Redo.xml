@@ -17,6 +17,9 @@
   <action id="ExpandToLevel3">
     <keyboard-shortcut first-keystroke="ctrl alt 3" />
   </action>
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="Kotlin.RunScratch" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt n" />
